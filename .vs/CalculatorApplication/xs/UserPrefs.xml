@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{622F7A4E-4101-4306-B1CD-5336409D2BCB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculatorApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApplication/Controllers/CalculatorController.cs">
+    <Files>
+      <File FileName="CalculatorApplication/Controllers/CalculatorController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorApplication" expanded="True">
+            <Node name="CalculatorApplication" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="CalculatorController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="CalculatorLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
